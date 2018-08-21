@@ -1,0 +1,32 @@
+.overview-slick {
+    margin-top:35px;
+}
+
+.overview-heading {
+    margin-top: 15px;
+}
+.overview-content {
+    padding: 0 10px;
+}
+
+.info-list>li {
+    list-style: none;
+    position: relative;    
+    margin: 0;
+    border-bottom: 1px solid #ccc;
+    font-size: 100%;
+}
+.info-list>li:last-child {
+    border-bottom: none;
+}
+@media(max-width:1024px){
+    .info-list {
+        margin-bottom: 40px;
+    }
+}
+
+@media(max-width:426px) {
+    .overview-heading {
+        font-size:1.1em !important;
+    }
+}

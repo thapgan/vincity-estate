@@ -1,0 +1,42 @@
+.arrow-btn {
+    display: block;            
+    z-index: 10;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    cursor:pointer;
+    font-size: 36px;
+    text-shadow: 1px 1px 2px rgba(83, 104, 87, 1);
+    color: #fff;
+    border: none;
+    outline: none;
+    background: transparent;
+    transition: all .2s ease-out;
+}
+.arrow-btn-left {
+    left: 55px;
+}
+.arrow-btn-right {
+    right: 55px;
+}
+.arrow-btn:hover {
+    color: #536857;    
+}
+
+@media(max-width:1024px) {
+    .arrow-btn-left {
+        left: 20px;
+    }
+    .arrow-btn-right {
+        right:20px;
+    }
+}
+
+@media(max-width:426px) {
+    .arrow-btn-left {
+        left: 10px;
+    }
+    .arrow-btn-right {
+        right:10px;
+    }
+}

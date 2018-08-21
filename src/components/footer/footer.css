@@ -1,0 +1,21 @@
+.footer {
+    background-color:rgba(31,33,41,1);
+    padding: 10px 0px;
+    color: white;
+}
+
+.col3 {
+    width: 33%;
+    float: left;
+    padding: 5px;
+    overflow: hidden;
+}
+@media(max-width:768px) {
+    .col3 {
+        width:100%;
+    }
+}
+.contact-info>a {
+    text-decoration: none;
+    color: white;
+}

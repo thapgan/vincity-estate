@@ -1,0 +1,36 @@
+/* Post List */
+
+.post-item {
+    border-bottom: 1px solid #e5e5e5;
+    color: #555;
+    display: inline-block;
+    padding: 2rem 0;
+  }
+  
+  .post-time {
+    color: #aaa;
+    font-family: Palatino,"Palatino LT STD","Palatino Linotype","Book Antiqua","Georgia",serif;
+    letter-spacing: .5px;
+  }
+  .post-title {
+    color: #353535;
+    display: block;
+    font-family: "Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    margin: .5rem 0;
+  }
+  
+  .post-item-line {
+    transition: all 0.3s ease-out;
+    border-top: 0.2rem solid #353535;
+    display: block;
+    width: 2rem;
+  }
+  .post-item:hover .post-item-line {
+    width: 10rem;
+  }
+  .post-item p {
+    text-align: justify;
+  }
+  

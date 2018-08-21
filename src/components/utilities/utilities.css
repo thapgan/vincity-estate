@@ -1,0 +1,21 @@
+.utitlities {
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: top;
+}
+
+.utitlities>div {
+    width:30%;
+    display: inline-block;
+    text-align: center;
+}
+
+.utitlities>div>img {    
+    border: solid 3px #ccc;
+}
+
+@media(max-width:426px) {
+    .utitlities>div>p {
+        font-size:0.7em;
+    }
+}
