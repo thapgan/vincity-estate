@@ -1,2 +1,3 @@
 # Redirect default Netlify subdomain to primary domain
 https://dreamy-snyder-09c75e.netlify.com/* https://www.vincity-estate.com/:splat 301!
+https://vincity-estate.com/* https://www.vincity-estate.com/:splat 301!
