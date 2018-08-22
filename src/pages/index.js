@@ -1,12 +1,12 @@
 import React from 'react'
-import Link from 'gatsby-link'
+
 import Carousel from '../components/carousel'
 import Overview from '../components/overview'
 import ChungCu from '../components/chungcu'
 import Villa from '../components/villa'
 import Utitlities from '../components/utilities'
 import FloatingAction from '../components/floatingaction'
-import Disqus from "../components/disqus"
+// import Disqus from "../components/disqus"
 
 const IndexPage = () => {
   const overviewSettings = {
@@ -50,12 +50,12 @@ const IndexPage = () => {
         <div id="TienIch" className="id-mark"></div>
         <Utitlities/>
       </div>
-      <div>
+      {/* <div>
         <Disqus
             post={{title:'Vincity-estate', url:'http://www.vincity-estate.com',category_id: "Vincity-estate"}} 
             disqusShortname='vincity-estate'
           />
-      </div>
+      </div> */}
       <FloatingAction postUrl='http://www.vincity-estate.com' excerpt='Vincity-Estate chuyên tư vấn và phân phối bất động sản vincity' title='Vincity-Estate (Bất động sản Vincity)'/>
     </div>
   )

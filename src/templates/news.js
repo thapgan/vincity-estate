@@ -1,7 +1,7 @@
 import React from "react";
 
 import FloatingAction from "../components/floatingaction"
-import Disqus from "../components/disqus";
+// import Disqus from "../components/disqus";
 
 export default class NewTemplate extends React.Component {
 
@@ -24,9 +24,9 @@ export default class NewTemplate extends React.Component {
         </div>
         <div className="news-container">
           <div className="news" dangerouslySetInnerHTML={{ __html: html }} />        
-          <Disqus
+          {/* <Disqus
             post={post} disqusShortname='vincity-estate'
-          />
+          /> */}
         </div>
         <FloatingAction postUrl={'http://www.vincity-estate.com/' + frontmatter.path} excerpt={excerpt} title={frontmatter.title} />
       </div>
