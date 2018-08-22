@@ -8,6 +8,7 @@ export default class Villa extends Component {
             infinite: true,
             dots: true,
             adaptiveHeight: true,
+            lazyLoad: 'progressive',
             dotsClass: 'custom-slick-dots',
             speed: 500,
             slidesToShow: 1,

@@ -8,6 +8,7 @@ export default class ChungCu extends Component {
             infinite: true,
             arrows:false,
             dots:true,
+            lazyLoad: 'progressive',
             adaptiveHeight: true,
             dotsClass: 'custom-slick-dots',
             speed: 500,
