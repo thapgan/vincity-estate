@@ -5,8 +5,7 @@ import {SampleNextArrow, SamplePrevArrow} from '../utils/customArrows.js'
 export default class ChungCu extends Component {
     render() {
         const settings = {
-            infinite: true,
-            arrows:false,
+            infinite: true,            
             dots:true,
             lazyLoad: 'progressive',
             adaptiveHeight: true,

@@ -11,8 +11,8 @@ const Utitlities = () => {
                 <p>Biển hồ nước mặn</p>
             </div>
             <div>
-                <img src="/ultilities/lauvongcanh.jpg"/>
-                <p>Lầu vọng cảnh</p>
+                <img src="/ultilities/bbqPark.jpg"/>
+                <p>100 điểm dã ngoại</p>
             </div>
             <div>
                 <img src="/ultilities/gym.jpg"/>

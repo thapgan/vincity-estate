@@ -13,16 +13,16 @@ class Overview extends React.Component {
                 <Slider {...this.props.settings}>
                     <div>
                         <h2 className="slide-heading text-center overview-heading">Tổng quan về Vincity Gia Lâm</h2>
-                        <p className="slide-content overview-content">Vincity Gia Lâm là một Đại đô thị được VinGroup dựa trên ý tưởng về thành phố sinh thái (Forest City) và xây dựng theo tiêu chuẩn Singapore. Vincity Gia Lâm tọa lạc ở ngoại ô Hà Nội với tổng diện tích 430 ha sánh ngang diện tích với Quận Hoàn Kiếm, được quy hoạch chuẩn, các khu nhà biệt thự, khu nhà chung cư cao tầng, xen kẽ với các hệ thống tiện ích hiện đại từ giáo dục tới y tế, các trung tâm thương mại, trung tâm thể thao và giải trí. Điểm đặc biệt ở Vincity Gia Lâm là diện tích rộng lớn, với tiêu chuẩn cây xanh, hồ nước lý tưởng tạo nên một thành phố sinh thái thực sự, đẳng cấp bậc nhất Hà Nội</p>
+                        <p className="slide-content overview-content">Vincity Gia Lâm là một Đại đô thị được VinGroup dựa trên ý tưởng về thành phố sinh thái (Forest City) và xây dựng theo tiêu chuẩn Singapore. Vincity Gia Lâm tọa lạc ở ngoại ô Hà Nội với tổng diện tích 420 ha sánh ngang diện tích với Quận Hoàn Kiếm, được quy hoạch chuẩn, các khu nhà biệt thự, khu nhà chung cư cao tầng, xen kẽ với các hệ thống tiện ích hiện đại từ giáo dục tới y tế, các trung tâm thương mại, trung tâm thể thao và giải trí. Điểm đặc biệt ở Vincity Gia Lâm là diện tích rộng lớn, với tiêu chuẩn cây xanh, hồ nước lý tưởng (<b>420ha thì có tới hơn 100ha cho cảnh quan, cây xanh, hồ nước</b>) tạo nên một thành phố sinh thái thực sự, đẳng cấp bậc nhất Hà Nội.</p>
                         <div className="col2">                      
                             <ul className="info-list">
                                 <li><strong>Tên dự án:</strong> Vincity Ocean Park - Vinhomes Ocean Park</li>
                                 <li><strong>Vị trí:</strong> Đa Tốn, Kiêu Kỵ, Gia Lâm, Hà Nội</li>
                                 <li><strong>Chủ đầu tư:</strong> Tập đoàn Vingroup</li>
                                 <li><strong>Loại hình phát triển:</strong> Biệt thự cao cấp, Căn hộ chung cư</li>
-                                <li><strong>Quy mô dự án:</strong> 420 ha</li>
+                                <li><strong>Quy mô dự án:</strong> 420 ha <i>(hơn 100 ha cho cảnh quan, cây xanh, hồ nước)</i></li>
                                 <li><strong>Mật độ xây dựng:</strong> Khoảng 19.2 %</li>
-                                <li><strong>Quy mô dự án:</strong>  66 tòa chung cư và hơn 2000 căn biệt thự</li>
+                                {/* <li><strong>Quy mô dự án:</strong>  66 tòa chung cư và hơn 2000 căn biệt thự</li> */}
                                 <li><strong>Diện tích mặt nước:</strong> Hơn 55ha trong đó hồ trung tâm hơn 24,8 ha</li>
                                 <li><strong>Đơn vị quản lý và vận hành:</strong> Vinhomes</li>
                                 <li><strong>Thời gian bắt đầu bàn giao:</strong> Dự kiến năm 2020</li>
@@ -30,7 +30,7 @@ class Overview extends React.Component {
                         </div>
 
                         <div className="col2">
-                            <img src="/carousel/3.jpg" />
+                            <img src="/vin.jpg" />
                         </div>
                     </div>
                     <div>
@@ -41,7 +41,7 @@ class Overview extends React.Component {
                         </div>
                         <div className="col2">
                             <p className="slide-content overview-content">
-                                Vincity tại Gia Lâm tọa lạc ở vị trí Khu đất vàng – Nằm giữa quốc lộ 5A ( Hà Nội - Hải Phòng cũ) và quốc lộ 5B ( Cao tốc Hà Nội - Hải Phòng mới ) . Nằm trên địa phận xã Đa Tốn – Kiêu Kỵ - Dương Xá và một phần thị trấn Trâu Qùy, Huyện Gia Lâm, TP Hà Nội. Với tổng diện tích dự kiến lên hơn 400ha – đây được đánh giá là khu có diện ích lớn, vuông vắn và có cơ sở hạ tầng giao thông tốt, dễ dàng tiếp cận với các trục đường lớn và các tiện ích lớn, các công trình trọng điểm. Dự án được hứa hẹn, kỳ vọng lớn về sự kết hợp hài hòa giữa vị thế và phong thủy, tạo nên một khu phức hợp với đầy đủ tiện ích xứng tầm quốc tế.
+                                Vincity tại Gia Lâm tọa lạc ở vị trí Khu đất vàng – Nằm giữa quốc lộ 5A ( Hà Nội - Hải Phòng cũ) và quốc lộ 5B ( Cao tốc Hà Nội - Hải Phòng mới ). Nằm trên địa phận xã Đa Tốn – Kiêu Kỵ - Dương Xá và một phần thị trấn Trâu Qùy, Huyện Gia Lâm, TP Hà Nội. Với tổng diện tích dự kiến lên hơn 400ha – đây được đánh giá là khu có diện ích lớn, vuông vắn và có cơ sở hạ tầng giao thông tốt, dễ dàng tiếp cận với các trục đường lớn và các tiện ích lớn, các công trình trọng điểm. Dự án được hứa hẹn, kỳ vọng lớn về sự kết hợp hài hòa giữa vị thế và phong thủy, tạo nên một khu phức hợp với đầy đủ tiện ích xứng tầm quốc tế.
                             </p>
                             <ul className="info-list">
                                 <li>Phía Tây Nam giáp với cao tốc Hà Nội - Hải Phòng mới</li>

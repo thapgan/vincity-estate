@@ -1,5 +1,5 @@
 ---
-date: "2018-28-6"
+date: "2018-06-28"
 title: "Vingroup: Tiết lộ về loạt dự án khu đô thị VinCity"
 thumbImg: "/default-thumb.jpg"
 path: "vingroup-load-du-an-vincity"
