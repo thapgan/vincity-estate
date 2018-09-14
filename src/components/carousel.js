@@ -38,6 +38,11 @@ class Carousel extends React.Component {
 
                     </div>
                 </div>
+                <div>
+                    <div style={{ backgroundImage: "url(/carousel/5.jpg)", backgroundPosition: 'center', backgroundRepeat: 'no-repeat', backgroundSize: 'cover', width: "100vw", height: "100vh" }}>
+
+                    </div>
+                </div>
             </Slider>
         );
     }
