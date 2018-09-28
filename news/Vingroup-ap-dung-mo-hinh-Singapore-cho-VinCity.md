@@ -1,5 +1,5 @@
 ---
-date: "2018-04-05"
+date: "2018-09-28"
 title: "Vingroup áp dụng mô hình Singapore cho VinCity"
 thumbImg: "/default-thumb.jpg"
 path: "vingroup-ap-dung-mo-hinh-singapore-cho-vincity"
