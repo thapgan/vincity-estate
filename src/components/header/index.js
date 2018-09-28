@@ -19,7 +19,7 @@ class Header extends Component {
 
   render() {
     const menus = [
-      {name: 'VinCity Gia Lâm', link:'/#vincityGiaLam'},
+      {name: 'VinCity Ocean Park', link:'/#vincityGiaLam'},
       {name: 'Chung Cư', link:'/#ChungCu'},
       {name: 'Biệt thự', link:'/#BietThu'},
       {name: 'Tiện ích', link:'/#TienIch'},

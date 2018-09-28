@@ -50,7 +50,7 @@ export default class ChungCu extends Component {
                     <div className="col2">
                         <div className="padding40">
                             <h3 className="slide-heading">Chung cư Vincity Occean Park</h3>
-                            <p className="slide-content">Chung cư Ocean Park là sản phẩm mới nhất được tập đoàn Vingroup phát triển trong chuỗi sản phẩm VinCity cho người có thu nhập tầm trung. Với 4 loại hình căn hộ (1PN, 2PN nhỏ, 2PN lớn, 3 PN), VinCity Ocean Park không phải là giải pháp nhà giá rẻ cho người thu nhập thấp mà là một giải pháp ưu việt từ <strong>chất lượng</strong> đến <strong>tài chính</strong> cho người có thu nhập tầm trung. 66 tòa chung cư có chiều cao 22 -35 tầng, với các diện tích căn hộ từ 28m2 đến 76m2, từ 1 đến 3 phòng ngủ, chung cư Occean Part cho bạn thỏa sức lựa chọn.</p>
+                            <p className="slide-content">Chung cư Ocean Park là sản phẩm mới nhất được tập đoàn Vingroup phát triển trong chuỗi sản phẩm VinCity cho người có thu nhập tầm trung. Với 4 loại hình căn hộ (1PN, 2PN nhỏ, 2PN lớn, 3 PN), VinCity Ocean Park không phải là giải pháp nhà giá rẻ cho người thu nhập thấp mà là một giải pháp ưu việt từ <strong>chất lượng</strong> đến <strong>tài chính</strong> cho người có thu nhập tầm trung. 66 tòa chung cư có chiều cao 22 -35 tầng, với các diện tích căn hộ từ 28m2 đến 76m2, từ 1 đến 3 phòng ngủ, chung cư Ocean Part cho bạn thỏa sức lựa chọn.</p>
                             <a className="btn-price" href="/#subscriptionForm">Báo giá chi tiết</a>
                         </div>
                     </div>
@@ -59,7 +59,7 @@ export default class ChungCu extends Component {
                     <div className="col2">
                         <div className="padding40">
                             <h3 className="slide-heading">Căn hộ 1 phòng ngủ</h3>
-                            <p className="slide-content">Sự hài hóa trong bố trí nội thất trong không gian nhỏ 28-30m2, với chỉ một phòng ngủ là mô hình căn hộ gây 'sốc' ở Vincity Gia Lâm. Không chỉ phù hợp cho các bạn trẻ độc thận mà còn vô cùng tiện lợi và lãng mạn cho một cặp vợ chồng mới cưới. Căn hộ 1 phòng ngủ thực sự là một túp lều tranh giữa chốn thiên nhiên hùng vĩ của hệ sinh thái Vincity Gia Lâm.</p>
+                            <p className="slide-content">Sự hài hóa trong bố trí nội thất trong không gian nhỏ 28-30m2, với chỉ một phòng ngủ là mô hình căn hộ gây 'sốc' ở Vincity Ocean Park. Không chỉ phù hợp cho các bạn trẻ độc thận mà còn vô cùng tiện lợi và lãng mạn cho một cặp vợ chồng mới cưới. Căn hộ 1 phòng ngủ thực sự là một túp lều tranh giữa chốn thiên nhiên hùng vĩ của hệ sinh thái Vincity Ocean Park.</p>
                             <a className="btn-price" href="/#subscriptionForm">Báo giá chi tiết</a>
                         </div>
                     </div>
@@ -83,7 +83,7 @@ export default class ChungCu extends Component {
                     <div className="col2">
                         <div className="padding40">
                             <h3 className="slide-heading">Căn hộ 2 phòng ngủ lớn</h3>
-                            <p className="slide-content">Ngay khi con cái lớn hơn một chút, tự lập hơn một chút cũng là lúc bạn cần một không gian rộng hơn, căn hộ 2 phòng ngủ nhỏ với vẻn vẹn chỉ 50m2 có thể trở nên không phù hợp nữa. Đó là lý do Vincity Gia Lâm cung cấp những căn hộ với 2 phòng ngủ lớn với diện tích khoảng 65m2như một sự bổ sung về không gian cho căn hộ 2 phòng ngủ nhỏ.</p>
+                            <p className="slide-content">Ngay khi con cái lớn hơn một chút, tự lập hơn một chút cũng là lúc bạn cần một không gian rộng hơn, căn hộ 2 phòng ngủ nhỏ với vẻn vẹn chỉ 50m2 có thể trở nên không phù hợp nữa. Đó là lý do Vincity Ocean Park cung cấp những căn hộ với 2 phòng ngủ lớn với diện tích khoảng 65m2như một sự bổ sung về không gian cho căn hộ 2 phòng ngủ nhỏ.</p>
                             <a className="btn-price" href="/#subscriptionForm">Báo giá chi tiết</a>
                         </div>
                     </div>

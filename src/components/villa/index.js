@@ -47,7 +47,7 @@ export default class Villa extends Component {
                     <div className="col2">
                         <div className="padding40">
                             <h3 className="slide-heading">Nhà biệt thự</h3>
-                            <p className="slide-content">Phân khu biệt thự là phân khu cao cấp nhất. Vincity Gia Lâm với mặt bằng rộng, không gian cây xanh lớn, được quy hoạch với nhiều kiểu nhà biệt thự khác nhau như biệt thự đơn lập truyền thống, biệt thự song lập, biệt thự liền kề.</p>
+                            <p className="slide-content">Phân khu biệt thự là phân khu cao cấp nhất. Vincity Ocean Park với mặt bằng rộng, không gian cây xanh lớn, được quy hoạch với nhiều kiểu nhà biệt thự khác nhau như biệt thự đơn lập truyền thống, biệt thự song lập, biệt thự liền kề.</p>
                             <a className="btn-price" href="/#subscriptionForm">Báo giá chi tiết</a>
                         </div>
                     </div>
@@ -71,7 +71,7 @@ export default class Villa extends Component {
                     <div className="col2">
                         <div className="padding40">
                             <h3 className="slide-heading">Biệt thự song lập</h3>
-                            <p className="slide-content">Biệt thự song lập được xây dựng theo lối kiến trúc đồng bộ, sự sáng tạo trong thiết kế tạo nên những nét nổi bật riêng cho căn nhà, mang lại sự thư thái, dễ chịu cho các gia chủ. Với những gia đình đang tìm kiếm một địa điểm gửi gắm hạnh phúc lâu dài với không gian sống đa sắc màu, hiện đại, được hòa mình vào không gian xanh yên bình, biệt thự song lập Vincity Gia Lâm luôn sắn sàng chào đón.</p>
+                            <p className="slide-content">Biệt thự song lập được xây dựng theo lối kiến trúc đồng bộ, sự sáng tạo trong thiết kế tạo nên những nét nổi bật riêng cho căn nhà, mang lại sự thư thái, dễ chịu cho các gia chủ. Với những gia đình đang tìm kiếm một địa điểm gửi gắm hạnh phúc lâu dài với không gian sống đa sắc màu, hiện đại, được hòa mình vào không gian xanh yên bình, biệt thự song lập Vincity Ocean Park luôn sắn sàng chào đón.</p>
                             <a className="btn-price" href="/#subscriptionForm">Báo giá chi tiết</a>
                         </div>
                     </div>
@@ -98,7 +98,7 @@ export default class Villa extends Component {
                     <div className="col2">
                         <div className="padding40">
                             <h3 className="slide-heading">Shophouse</h3>
-                            <p className="slide-content">TShophouse Vincity Gia Lâm là một trong những sản phẩm quan trọng trong tổ hợp dự án Vincity Gia Lâm, đây là những căn hộ vừa có thể kinh doanh vừa có thể để ở. Nếu từng đầu tư tại các dự án của Vingroup, các nhà đầu tư sẽ dễ dàng chọn lựa ngay lập tức bởi Shophouse là loại hình căn hộ rất phổ biến hiện nay ở các dự án của Vingroup và hứa hẹn sẽ mang tới cơ hội sinh lời cao cho khách hàng.</p>
+                            <p className="slide-content">TShophouse Vincity Ocean Park là một trong những sản phẩm quan trọng trong tổ hợp dự án Vincity Ocean Park, đây là những căn hộ vừa có thể kinh doanh vừa có thể để ở. Nếu từng đầu tư tại các dự án của Vingroup, các nhà đầu tư sẽ dễ dàng chọn lựa ngay lập tức bởi Shophouse là loại hình căn hộ rất phổ biến hiện nay ở các dự án của Vingroup và hứa hẹn sẽ mang tới cơ hội sinh lời cao cho khách hàng.</p>
                             <a className="btn-price" href="/#subscriptionForm">Báo giá chi tiết</a>
                         </div>
                     </div>
